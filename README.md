@@ -12,7 +12,7 @@ Table example provided below:
 
 | Currency | Sell  |  Buy  |
 | -------- | ----- | ----- |
-| Bitcoin  | $1000 | $2200 |
+|  Bitcoin | $1000 | $2200 |
 | Ethereum | $1000 | $2200 |
 |   Dash   | $1000 | $2200 |
 
@@ -33,7 +33,7 @@ Table example below:
 1. Use `Redux` for state management
 2. Use `React Router v4` and setup code-splitting
 3. Application should support universal (`isomorphic`) rendering (Both on client and server)
-4. Style `/`, `/orders` and `login modal` at least with Bootstrap. Setting up postcss would be a plus.
+4. Style contents of `/`, `/orders` and `login modal` at least with Bootstrap. Setting up postcss would be a plus.
 5. Setup `Webpack` config
 6. Setup one simple frontend test with `Jest`.
 7. Project should have a clear `README`, describing how to install dependencies, prepare infrastructure and launch application
