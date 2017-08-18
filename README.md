@@ -1,6 +1,6 @@
-#Crypto task for Crello project.
+# Crypto task for Crello project.
 
-#Goal
+# Goal
 
 Create a kickass cryptocurrency monitoring application.
 
